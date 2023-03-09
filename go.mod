@@ -4,11 +4,6 @@ go 1.20
 
 require go.mongodb.org/mongo-driver v1.11.2
 
-require(
-	github.com/Richnarh/golang-jwt-project/helpers v1.2.3
-	github.com/Richnarh/golang-jwt-project/models v1.2.3
-)
-
 require (
 	github.com/gin-gonic/gin v1.9.0
 	github.com/joho/godotenv v1.5.1
